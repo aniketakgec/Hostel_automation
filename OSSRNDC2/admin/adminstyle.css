@@ -1,0 +1,44 @@
+body{ 
+background-image:url("../img/image.jpg");
+
+	background-color:grey;
+	
+}
+button{
+	border-radius:5px;
+	padding:6px;
+	
+}
+h1{
+	font-family: 'Kaushan Script', cursive;
+}
+form input{
+	
+	margin-top:6px;
+	width:250px;
+	height:30px;
+	background-color:#FFFDF5;
+}
+form input:focus{
+	border:1px solid grey;
+
+}
+button{
+	padding:10px;
+	
+}
+select[name="hname"]{
+	text-align:center;
+	height:30px;
+	width:250px;
+	background-color:#FFFDF5;
+}
+
+select{text-align:center;
+	width:50px;
+	background-color:#FFFDF5;
+}
+::placeholder{
+	text-align:center;
+	
+}
